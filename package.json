@@ -1,0 +1,14 @@
+{
+  "name": "nodegit-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Palala <deterium73@gmail.com> (http://jpalala.com)",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "^0.11.5"
+  }
+}

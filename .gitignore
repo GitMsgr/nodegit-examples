@@ -31,3 +31,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+#repo to be cloned by example1.js
+repos/scripster
