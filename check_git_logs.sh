@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-cd scriptster
+#assuming example1.js has been run
+cd repos/scriptster
 git log
